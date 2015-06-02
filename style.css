@@ -1,0 +1,109 @@
+body
+{
+	margin:0px;
+	background-image:url("images/fon.jpg");
+	background-repeat: repeat;
+	color:orange;
+}
+.tab 
+{	
+    margin-left: 15px;
+    
+}
+.tab2 
+{	
+    margin-left: 50px;
+}
+p
+{
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+.blue
+{
+	color:red;
+}
+h1
+{
+	font-size: 50px;
+	font-family: Vivaldi;
+	color:green;
+}
+hr
+{
+	clear:left;
+}
+a:link
+{
+	text-decoration: none;
+}
+a:visited
+{
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+            #updown 
+            {
+                height: 9px;
+                width: 14px;
+                position: fixed;
+                top: 30px;
+                left: 10px;
+                cursor: pointer;
+            }
+            #updown.up 
+            {
+                background: url(updown.gif) left top;
+            }
+            #updown.down 
+            {
+                background: url(updown.gif) left -9px;
+            }
+
+
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 80%;
+	margin: 0;
+	padding: 0;
+	background-color : #FFFFFF;
+	
+}
+.tbl1 
+{ 
+background: url('back.jpg'); 
+background-repeat: no-repeat; 
+} 
+
+p,h1,h2,h3,main {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 85%;
+	color: black;
+}
+
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 200%;
+
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 160%;
+
+	font-weight: bold;
+}
+
+
+h3 {
+
+	font-size: 110%;
+
+	
+}
+
